@@ -1,4 +1,4 @@
-# Hack-on-chain
+# Power-to-Fly
 
 This repository contain source code for Ethereum Exchange app for PowerToFly Diversity hackathon.
 
